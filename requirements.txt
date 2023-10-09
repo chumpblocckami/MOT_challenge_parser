@@ -1,0 +1,3 @@
+ultralytics
+pydantic
+tqdm
