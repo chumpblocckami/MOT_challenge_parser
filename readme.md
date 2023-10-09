@@ -1,6 +1,6 @@
 # People tracker evaluation
 
-This repo is used to extract from frames the annotation used by Multi Object Tracking (MOT) challenge.
+This repo is used to generate all the files used by Multi Object Tracking (MOT) challenge evaluation script.
 
 # Usage
 
